@@ -7,7 +7,6 @@
 <h1 align="center">👋Olá meu nome é Emmanuel Victor</h1>
 
 ###
-<br>
 
 <p align="center">Sou um entusiasta da tecnologia dando os primeiros passos no mundo da programação. Estou em constante aprendizado e buscando evoluir como desenvolvedor, explorando diferentes linguagens, ferramentas e boas práticas do desenvolvimento de software.<br><br>Tenho curiosidade por como as coisas funcionam "por trás das telas" e gosto da ideia de criar soluções com código. Cada novo projeto, curso ou desafio é uma oportunidade de crescimento.</p>
 
