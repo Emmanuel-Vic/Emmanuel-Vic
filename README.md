@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">👋Olá meu nome é Emmanuel Victor</h1>
+<h1 align="center">👋Olá, meu nome é Emmanuel Victor</h1>
 
 ###
 
